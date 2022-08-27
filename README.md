@@ -15,7 +15,7 @@ This clock consists of showing the time and date in the middle and it has 60 LED
 
 <p align="center">
 <a href="./LICENSE.md">
-<img alt="GitHub license" src="https://img.shields.io/github/license/khalilian-ah/Bascom_avr-Voltmeter.4?style=badge">
+<img alt="GitHub license" src="https://img.shields.io/github/license/khalilian-ah/Bascom_avr-Clock.9?style=badge">
 </a>
 <a href="https://www.mcselec.com/">
 <img alt="BASCOM_AVR" src="https://img.shields.io/badge/BASCOM_AVR-2.0.8.5-badcff.svg">
